@@ -1,0 +1,9 @@
+com\errigationSystem\errigationSystemApp\ErrigationSystemApplication$AppConfiguration.class
+com\errigationSystem\errigationSystemApp\controller\PlotOfLandController.class
+com\errigationSystem\errigationSystemApp\dto\PlotOFLandDto.class
+com\errigationSystem\errigationSystemApp\dto\ResponseDto.class
+com\errigationSystem\errigationSystemApp\entity\PlotOfLandEntity.class
+com\errigationSystem\errigationSystemApp\ErrigationSystemApplication.class
+com\errigationSystem\errigationSystemApp\repository\PlotOfLandRepository.class
+com\errigationSystem\errigationSystemApp\service\PlotOfLandService.class
+com\errigationSystem\errigationSystemApp\exception\ResourceNotFoundException.class
